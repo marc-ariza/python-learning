@@ -1,2 +1,2 @@
 # python-learning
-Holding accountable to learn Python
+Hi! This is my trying to holding myself accountable to learn Python :)
